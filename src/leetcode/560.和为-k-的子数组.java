@@ -5,13 +5,13 @@
  */
 
 // @lc code=start
-class Solution {
-    public int subarraySum(int[] nums, int k) {
-        
-        for(){
-
-        }
-    }
-}
+//class Solution {
+//    public int subarraySum(int[] nums, int k) {
+//
+//        for(){
+//
+//        }
+//    }
+//}
 // @lc code=end
 
